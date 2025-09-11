@@ -1,5 +1,6 @@
 ---
 title: Maddie is Awesome 
+layout: page
 ---
 # Here is why Maddie is awesome 
 
