@@ -1,3 +1,8 @@
+---
+Title: [The Weight of Literacy]
+Layout: page
+---
+
 ## The  Weight of Literacy
 **Literacy** is commonly known as the basic skills required to complete a task or comprehend a subject. However, there lies a much deeper meaning within these seemingly 'basic' skills. Much of the time we deem literacy as a *gateway* or *prerequisite* to success. This is phrased best by Wysocki and Eilola: 
 > "When we speak then of 'literacy' as though it were a basic, neutral, contextless set of skills, the word keeps us hoping in the face of lives and arguments to the contrary that there could be an easy cure for economic and social and political pain, that only a lack of literacy keeps people poor or oppressed" (7).
@@ -9,4 +14,5 @@ A device is not always easy to use, especially at one's first attempt. This is s
 
 Although on a much smaller, and more personal scale than ideas of poverty or oppression, the quick pace of technology and digital media as a whole can be difficult for anybody to follow. It becomes even more difficult to find the will to follow such topics if one didn't grow up with them in the first place. We, as people, are motivated to avoid that which makes us uncomfortable. The only way to get better, or get over your fears, is to push through this. Now for a second, imagine how much more difficult it would be to get over these fears if it's deemed as such a simple thing to do. Being afraid of messing something up on a device that everybody else just uses without any fear. It sounds demoralizing just typing it, to the point where I cannot even fathom how it would feel to experience it. This lack of confidence is where many manage to avoid development of their own digital literacies. This, then, turns the process into an infinite cycle. The individual realizes that they don't understand something, loses more confidence in themselves within the subject, and then never works up the courage to sit down and learn it from the start. It's something that isn't just digital, but is inherently literate.
 ##### Conclusion
+
 Literacy as a concept, although simple in description, is complex in execution. The greater span of an individual's life could be spent attempting to reach the same level of literacy that it took another days to reach. It's a scale that is built to house those who are more prepared to learn. But what it really should track is simply the rate at which one is learning, not the result. Literacy reinforces the norm. But it doesn't have to.
