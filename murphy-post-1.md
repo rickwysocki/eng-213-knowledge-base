@@ -1,5 +1,6 @@
 ---
 title: Knowledge Base #1
+layout: page
 ---
 
 # BLINDED BY THE LETTER
