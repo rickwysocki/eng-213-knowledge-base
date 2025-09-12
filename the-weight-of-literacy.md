@@ -1,6 +1,6 @@
 ---
-Title: The Weight of Literacy
-Layout: page
+title: The Weight of Literacy
+layout: page
 ---
 
 ## The  Weight of Literacy
@@ -16,4 +16,5 @@ Although on a much smaller, and more personal scale than ideas of poverty or opp
 ##### Conclusion
 
 Literacy as a concept, although simple in description, is complex in execution. The greater span of an individual's life could be spent attempting to reach the same level of literacy that it took another days to reach. It's a scale that is built to house those who are more prepared to learn. But what it really should track is simply the rate at which one is learning, not the result. Literacy reinforces the norm. But it doesn't have to.
+
 
