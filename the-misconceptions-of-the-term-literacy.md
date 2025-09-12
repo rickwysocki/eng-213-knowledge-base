@@ -1,5 +1,5 @@
 ---
-title: # The Misconceptions of the Term *Literacy*
+title: The Misconceptions of the Term *Literacy*
 layout: page
 ---
 From today's reading, the authors Anne Wysocki and Johnada Johnson-Eilola explain
