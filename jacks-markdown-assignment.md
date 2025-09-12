@@ -1,9 +1,10 @@
 ---
-Title: Jack's Markdown Assignment
+title: Jack's Markdown Assignment
+layout: page
 ---
 
-# **Ideas about Digital Rhetoric and New Media Studies**
-### Concept #1:
+## **Ideas about Digital Rhetoric and New Media Studies**
+#### Concept #1:
 ##### Some key terms and ideas about digital rhetoric and new media studies that
 stand out to me would have to be Representation and Audience because the
 representation are important on how view digital rhetoric and media and how it
@@ -13,9 +14,9 @@ decades. Now for audience, it talks about who watches the media and why. Its
 arguably one of the most important factors because its being created to appeal to
 someone (aka us, humans).
 
-# **Digital Experiences**
-### Concept #2:
-###### The ideas from our readings relate to my own digital experiences would have
+## **Digital Experiences**
+#### Concept #2:
+##### The ideas from our readings relate to my own digital experiences would have
 to be when I had some occurrences where I had been scammed on social media for
 someone trying to take my account over and I've learned from that and been more
 aware of who to trust. Another occurrence when this happened is when I am getting
@@ -23,15 +24,15 @@ mean things said about me by one of my friends' friends and I don't know what al
 there is I can do about it, and I have just ignored it because what else is there
 that I can do. It will go away if you don't think about it.
 
-# **Digital Literacies**
-### Concept #3:
-###### To me for what digital literacies I've gained/been exposed to would have to
+## **Digital Literacies**
+#### Concept #3:
+##### To me for what digital literacies I've gained/been exposed to would have to
 be, gaining skills from the things I learn such as I am learning new things about
 in this class about digital literacies, digital rhetoric, new media studies, etc.
 
-# **Personal Thoughts**
-### Concept #4:
-###### Personally, I don't have any questions to ask about digital rhetoric,
+## **Personal Thoughts**
+#### Concept #4:
+##### Personally, I don't have any questions to ask about digital rhetoric,
 digital literacies and new media as I feel like I've explained my thinking's and my
 occurrences very well above. Though as I think about It, I have one question in
 particular.
