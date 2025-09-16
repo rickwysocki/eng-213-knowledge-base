@@ -1,6 +1,6 @@
 ---
 title: Technology and Rhetoric Has Evolved, So So Should Our Terminology
-layout: Page
+layout: page
 ---
 
 # Technology and Rhetoric Has Evolved, So So Should Our Terminology
@@ -19,4 +19,5 @@ Rhetorical velocity refers to the practice of composing with the anticipation of
 ## Should We Teach Children Rhetoric Differently?
 
 Kathi Yancey calls to recognize that students are already writing and circulating texts often in digital spaces. She, along with others, argue that the study of composition needs to be adapted so that students can learn to think about delivery, circulation, and rheotircal velocity, or how texts evolve from platform to platform. An example given would be to give a classroom assignment where students must analyze press releases and their reuses to discover how these tets are evolving across platforms.
+
 
