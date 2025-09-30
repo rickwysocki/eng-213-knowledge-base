@@ -1,0 +1,30 @@
+# Kairos 30.1 Review
+
+
+
+
+##### New Term to understand
+
+**The Long tail-** “...illustrates a process that pays attention to niche markets and emphasizes the longevity of a product over its immediate success factor” (Young et al.)
+
+ ##### Summary
+ 
+ Unfortunately, when people have to consider the algorithm of Youtube, they have to recognize that the amount of videos you upload are not what makes someone successful, it is the amount of views and engagement a video gets, the length, and other factors. One of these factors also is simplicity. This means that anyone who is posting in the field of science on Youtube, they often have to simplify scientific concepts and summarize it in under five minutes. One popular channel admitted that to keep engagement from a diverse audience, they have to simplify concepts in a way that could be misleading. They try to counter this by citing their sources and making it easily accessible to their viewers, hoping they take the initiative of researching further.
+
+##### Affordances
+- Able to reach various types of people: people who know a lot about scientific concepts, researchers, someone who knows nothing, etc.
+- With people's attention spans getting shorter every year, being able to simplify and shorten scientific concepts allows more people access to knowledge.
+- Allows viewers to become curious enough to research and think critically on their own
+
+##### Negatives
+- Can be misleading.
+- Not everyone watching will take the time to research further.
+- If some people research further, they will realize that the information was misleading, and learn to distrust these sources. This could stop them from looking for this information all together.
+
+## Considerations made with Rhetorical Velocity
+
+In Kairos 13.2, it is stated about rhetorical velocity that "In this sense, the rhetorician weighs the positive and negative possibilities of different types of textual appropriation against desired objectives: 'If I release the video in this format, could the video be used in this way, and would it be worth their time to do this? And would it be supportive of my objectives for them to do that?'' And in this sense, the theorizing of the question of “is it worth the time to do this” calls into question a set of economic and material concerns" (Devoss & Ridolfo). 
+
+I think in terms of thinking like this, researchers should consider how some may remix their videos and point out this misleading information. Is it worth shortening and simplifying this concept to being spread to people and giving them knowledge (the objective), or is it not worth it due to the general mistrust people might have?
+
+
