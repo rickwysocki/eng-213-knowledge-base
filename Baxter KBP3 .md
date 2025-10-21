@@ -1,0 +1,28 @@
+# Generative AI in the Academic World
+
+
+In the academic world, the use of AI is heavily debated and disagreed upon. Some believe that it can be a helpful tool, while others believe it can cause more harm than good. By looking at both the good and the bad of AI, we can see how it has a role in the academic world.
+
+## The Good in Generative AI
+This information was found by Jialei Jiang, Matthew A. Vetter & Brent Lucia.
+
+- Students found that using generative AI in the brainstorming process was beneficial to them, although it was a bit general in its responses. 
+- The use of AI, to some students, was also helpful in the revision process of writing.
+- When faced with a lot of information, AI was a good tool to simplify and make the information easier to understand and grasp the concepts it offered.
+
+## The Bad of Generative AI
+- Students found that when using ChatGTP to help with tone or delivery, the writing felt more robotic. 
+- Some of the information that the AI provided was not correct or simply made up by the AI.
+- At times, it felt like they weren't the ones doing the work, it felt like the robot was.
+- In "Refusing GenAI in Writing Studies: A Quickstart Guide", it is stated that “Large language models such as ChatGPT will produce good writing. They will not produce challenging, thoughtful, innovative humans, such as good writing instruction helps to nurture now” 
+
+## Racism and Discrimination within AI
+- Researcher Alfred L. Owusu-Ansah found that uses white language supremency. This negatively impacts both white students and students of color (Fernandes, McIntyre, & Sano-Franchini).
+- In Lorena O'Neil's article called "These Women Tried to Warn Us About AI", there was also discriminatory behavior found within AI as the AI was using white supremisist views and mysoginistic views that were found in the training system (O'Neil).
+
+## So, What Do We Do?
+While some might say not using AI would be the best way to stop it, many would disagree as it is beneficial to them. If people will not stop using AI they must make sure to:
+
+- Fact check the sources or information that the AI is providing you. 
+- Not over rely on it and let it do 100% of the writing for you (use responsibly).
+- Make sure the infomation or views given by the AI aren't harmful to a certain race or minority.
