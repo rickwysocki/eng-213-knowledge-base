@@ -1,4 +1,7 @@
-# The Cons of Using AI in the Writing Classroom: Is it Ethical?
+---
+title: The Cons of Using AI in the Writing Classroom: Is it Ethical?
+layout: page
+---
 There are many ethical concerns when it comes to using AI in academic writing. Some of them include:
 - Plagerism: Since some popular AI models, like ChatGPT, don't show where they get their sources from, the fear of accidental plagerism or misuse of information is a common concern for many writers. Additionally, since Gen AI answers are a recomposition of the pieces of writing they were trained off of, it's impossible to know if the writing they produce is plagarism. It is also difficult to tell if the answers provided are factual or not, again due to the lack of sources provided. 
 - Discrimination in Training: There are many instances where the materials used in the training of Gen AI models are skewed towards a certain demographic of people, leading the AI model's answers to be racist or sexist in nature. There have also been instances of facial recognition softwares not being able to identify the faces of black women, and in the instances when they did, they often categorized them as black men. 
